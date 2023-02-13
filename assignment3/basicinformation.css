@@ -1,0 +1,43 @@
+h1 {
+    color: violet;
+    background-color: #b299be;
+}
+
+h2 {
+    color: rgb(238, 130, 135);
+    background-color: greenyellow;
+}
+
+h3 {
+    color: rgb(107, 197, 39);
+    background-color: #186f8d;
+}
+
+.alltext {
+color: rgb(255, 0, 208);
+}
+
+.spanstyle {
+color: rgb(234, 35, 35);
+}
+
+#divexample {
+    background-color: blanchedalmond;
+}
+
+#greentext {
+    color: darkgreen; 
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:visited {
+    color: green;
+}
