@@ -1,0 +1,50 @@
+a {
+    color: rgb(0, 255, 17);
+    text-decoration: underline;
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+    
+}
+
+a:visited {
+    color: rgb(20, 121, 35);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+#divblue {
+    background-color: rgb(135, 162, 229);
+}
+
+.blueheader {
+color: blue;
+}
+
+.tangerine {
+    color: orange;
+}
+
+.darkblue {
+    color: rgb(28, 28, 187);
+}
+
+.yellowbackground {
+    background-color: yellow;
+}
+
+.redtext {
+    color: rgb(255, 0, 0);
+}
+
+#greenback {
+    background-color: rgb(120, 236, 137);
+}
+
+#fathersday {
+    background-color: rgb(13, 81, 29);
+    color: rgb(223, 210, 30);
+}
